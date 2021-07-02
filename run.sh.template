@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export TOKEN=
+export LOGURU_AUTOINIT=False
+export AUTHOR_ID=
+
+cd /path/to/dir
+/path/to/python /path/to/dir/main.py
